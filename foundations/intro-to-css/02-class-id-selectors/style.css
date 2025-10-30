@@ -1,4 +1,19 @@
 /* Add CSS Styling */
 .odd{
-    background-color: pink;
+    background-color: rgb(218, 115, 132);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#three{
+    font-size: 24px;
+}
+
+.two{
+    color: rgb(11, 11, 233);
+    font-size: 32px;
+}
+
+#four{
+    font-size: 24px;
+    font-weight: bold;
+    background-color: lightgreen;
 }
